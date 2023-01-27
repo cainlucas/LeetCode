@@ -18,7 +18,7 @@ https://leetcode.com/problems/single-number/submissions/886277395/
 
 SQRT (JS):
 
-https://leetcode.com/problems/sqrtx
+https://leetcode.com/problems/sqrtx/submissions/886278928/
 
 Two Sum (Python):
 
